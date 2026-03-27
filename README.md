@@ -1,2 +1,2 @@
-# IronDome.github.io
+IronDome
 The best game ever.
